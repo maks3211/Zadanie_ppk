@@ -1,0 +1,9 @@
+1; Woda; Napoje; 5.00; Woda mineralna w szklance
+2; Sok jablkowy; Napoje; 8.00; Sok jablkowy swiezy w szklance
+3; Jajecznica na boczku; Sniadania; 12.00; Jajecznica z 3 jajek na swiezym boczku
+4; Tosty; Sniadania; 8; Dwa tosty z serem i szynka
+5; Cola; Napoje; 6.00; Napoj gazowany w szklance
+6; Kotlet schabowy; Obiady; 25.00; Kotlet z frytkami i surowka
+7; Sernik; Desery; 12.50; Sernik z rodzynkami
+8; Rosol; Zupy; 7.50; Rosol z makaronem
+9; Kurczak; Obiady; 13.50; Filet z kurczaka z ziemniakami
